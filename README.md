@@ -1,2 +1,7 @@
 # hello-world
-my first repository
+
+I like coding.
+Sports
+Studying.
+Earning billions of money.
+Enjoying happy life with family.
